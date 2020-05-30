@@ -1,15 +1,1 @@
-{
-    "require": {
-        "ext-bcmath": "*",
-        "ext-mbstring": "*",
-        "ext-memcached": "*",
-        "ext-xmlrpc": "*" 
-    },
-
-    "repositories":[
-        {
-            "type": "pear",
-            "url": "https://pear2.php.net"
-        }
-    ]
-}
+{}
