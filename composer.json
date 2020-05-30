@@ -5,16 +5,11 @@
         "ext-memcached": "*",
         "ext-xmlrpc": "*" 
     },
-"repositories": [
-    {
-        "type": "pear",
-        "url": "https://pear.php.net"
-    },
-    {
-        "type": "pear",
-        "url": "https://phpseclib.sourceforge.net",
-        "vendor-alias": "phpseclib"
-    }
-]
-}
 
+    "repositories":[
+        {
+            "type": "pear",
+            "url": "https://pear2.php.net"
+        }
+    ]
+}
