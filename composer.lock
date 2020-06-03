@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "afa92ca57626983f30dfd7588a30bc5d",
+    "packages": [
+        {
+            "name": "pear-pear.php.net/Text_Password",
+            "version": "1.2.1",
+            "dist": {
+                "type": "file",
+                "url": "https://pear.php.net/get/Text_Password-1.2.1.tgz"
+            },
+            "require": {
+                "php": ">=5.2.1.0"
+            },
+            "replace": {
+                "pear-pear/text_password": "== 1.2.1.0"
+            },
+            "type": "pear-library",
+            "autoload": {
+                "classmap": [
+                    ""
+                ]
+            },
+            "include-path": [
+                "/"
+            ],
+            "license": [
+                "MIT License"
+            ],
+            "description": "Text_Password allows one to create pronounceable and unpronounceable\npasswords. The full functional range is explained in the manual at\nhttp://pear.php.net/manual/."
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
+}
